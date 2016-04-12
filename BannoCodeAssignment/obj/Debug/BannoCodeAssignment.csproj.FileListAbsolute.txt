@@ -1,0 +1,5 @@
+C:\Users\Joe\Desktop\BannoCodeAssignment\BannoCodeAssignment\bin\BannoCodeAssignment.dll
+C:\Users\Joe\Desktop\BannoCodeAssignment\BannoCodeAssignment\bin\BannoCodeAssignment.pdb
+C:\Users\Joe\Desktop\BannoCodeAssignment\BannoCodeAssignment\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\BannoCodeAssignment\BannoCodeAssignment\obj\Debug\BannoCodeAssignment.dll
+C:\Users\Joe\Desktop\BannoCodeAssignment\BannoCodeAssignment\obj\Debug\BannoCodeAssignment.pdb
