@@ -3,3 +3,16 @@ C:\Users\Joe\Desktop\BannoCodeAssignment\BannoCodeAssignment\bin\BannoCodeAssign
 C:\Users\Joe\Desktop\BannoCodeAssignment\BannoCodeAssignment\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Joe\Desktop\BannoCodeAssignment\BannoCodeAssignment\obj\Debug\BannoCodeAssignment.dll
 C:\Users\Joe\Desktop\BannoCodeAssignment\BannoCodeAssignment\obj\Debug\BannoCodeAssignment.pdb
+C:\Users\Joe\Documents\GitHub\Banno-YouTubeAPI\BannoCodeAssignment\bin\BannoCodeAssignment.dll
+C:\Users\Joe\Documents\GitHub\Banno-YouTubeAPI\BannoCodeAssignment\bin\BannoCodeAssignment.pdb
+C:\Users\Joe\Documents\GitHub\Banno-YouTubeAPI\BannoCodeAssignment\bin\Common.Logging.dll
+C:\Users\Joe\Documents\GitHub\Banno-YouTubeAPI\BannoCodeAssignment\bin\CSharp.GitHub.dll
+C:\Users\Joe\Documents\GitHub\Banno-YouTubeAPI\BannoCodeAssignment\bin\Spring.Rest.dll
+C:\Users\Joe\Documents\GitHub\Banno-YouTubeAPI\BannoCodeAssignment\bin\Spring.Social.Core.dll
+C:\Users\Joe\Documents\GitHub\Banno-YouTubeAPI\BannoCodeAssignment\bin\Spring.Rest.pdb
+C:\Users\Joe\Documents\GitHub\Banno-YouTubeAPI\BannoCodeAssignment\bin\Spring.Rest.xml
+C:\Users\Joe\Documents\GitHub\Banno-YouTubeAPI\BannoCodeAssignment\bin\Spring.Social.Core.pdb
+C:\Users\Joe\Documents\GitHub\Banno-YouTubeAPI\BannoCodeAssignment\bin\Spring.Social.Core.xml
+C:\Users\Joe\Documents\GitHub\Banno-YouTubeAPI\BannoCodeAssignment\obj\Debug\BannoCodeAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\GitHub\Banno-YouTubeAPI\BannoCodeAssignment\obj\Debug\BannoCodeAssignment.dll
+C:\Users\Joe\Documents\GitHub\Banno-YouTubeAPI\BannoCodeAssignment\obj\Debug\BannoCodeAssignment.pdb
