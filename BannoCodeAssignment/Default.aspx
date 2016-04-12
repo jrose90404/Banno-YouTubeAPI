@@ -5,16 +5,18 @@
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     
-    <a href="#" onclick="getFavorites()">Favorites</a>
-    <br />
-
-    <form action="#">
-        <input type="text" id="tbSearch" />
-        <input type="submit" value="Search Youtube" />
+    <div class="row">
+        <a href="#" onclick="getFavorites()">Favorites</a>
         <br />
-        <div id="searchResults"></div>
-        <div id="favoritesList"></div>
-    </form>
+        <br />
+        <form action="#">
+            <input type="text" id="tbSearch" />
+            <input type="submit" value="Search Youtube" />
+            <br />
+            <div id="searchResults"></div>
+            <div id="favoritesList"></div>
+        </form>
+    </div>
 
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
     <script type="text/javascript" src="Scripts/app.js"></script>
